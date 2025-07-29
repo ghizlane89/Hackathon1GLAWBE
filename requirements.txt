@@ -1,0 +1,12 @@
+numpy==1.26.4
+pandas==2.2.2
+scikit-learn==1.6.1
+torch==2.1.2
+torchvision==0.16.2
+faiss-cpu==1.7.4
+sentence-transformers==4.1.0
+transformers==4.53.3
+docx2txt==0.8
+PyMuPDF==1.24.2
+nltk==3.9.1
+streamlit==1.35.0
